@@ -1,17 +1,16 @@
-# InnerSource Commons Japan public roadmap
+# InnerSource Commons Japan Public Roadmap
 
 🇯🇵 Welcome to Japanese community roadmap is where you can learn about what project we're working on, what stage they're in, and when we expect to bring them to you
 
-## ロードマップについて
-
 > :rocket: InnerSource Japan [Public Community Roadmap](https://github.com/orgs/InnerSourceCommons/projects/1) 
+>
 > :speech_balloon: InnerSource Japan [Online Discussion Forum](https://github.com/InnerSourceCommons/jp-roadmap/discussions)
 
 InnerSource Commons Japan のパブリックロードマップでは、現在取り組んでいるプロジェクトがどのような段階にあり、実施時期がどうであるか、そしてどのように参加できるのかを知ることができます。
 InnerSource Commons Japan へのリクエストや、参加して始めたいプロジェクト、フィードバックなどがありましたら、[InnerSource Commons Japan Discussion Forum](https://github.com/InnerSourceCommons/jp-roadmap/discussions) で会話を始めてください！
 
 
-### InnerSource Commons のコミュニティに入る方法
+## InnerSource Commons のコミュニティに入る方法
 
 あなたが InnerSource Commons のコミュニティメンバーになるために必要なことで難しいことはありません。 InnerSource Commons の Slack に入った時、また コミュニティイベントに入った時からあなたはもうすでにコミュニティメンバーです :tada:
 
@@ -23,7 +22,7 @@ InnerSource Commons Japan へのリクエストや、参加して始めたいプ
 
 コミュニティに参加したら、ぜひ自己紹介をお願いします:)
 
-### InnerSource Commons のプロジェクトの始め方
+## InnerSource Commons のプロジェクトの始め方
 
 コミュニティメンバーになって、InnerSource Commons の活動に参画したいなら、ぜひ一緒にやりましょう!!
 基本的にルールはありませんが、組織とコミュニティメンバーを尊重して活動をする必要があります。
