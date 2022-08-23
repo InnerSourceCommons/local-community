@@ -93,6 +93,8 @@ GH Discussion が今の形になったのはつい最近ですし、今後また
 
 ### 外向きのモチベーション
 
+![](./external-motivation.png)
+
 ```mermaid
 
 flowchart LR
@@ -190,6 +192,8 @@ flowchart LR
 ```
 
 ### 内向きのモチベーション
+
+![](./internal-motivation.png)
 
 ```mermaid
 flowchart LR
