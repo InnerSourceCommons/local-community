@@ -8,10 +8,10 @@ Luckily this toolkit by the [InnerSource Commons](https://innersourcecommons.org
 ## Existing communities
 
 * [Japan](./japan) - This is the first regional community that formed. Therefore much of the material in here was extracted from their work.
-  * communcation happens in Slack via `[#jp-general](https://innersourcecommons.slack.com/archives/C03M546NR16)`
+  * communcation happens in Slack via [#jp-general](https://innersourcecommons.slack.com/archives/C03M546NR16)
   * with the tag "**Japan :jp:**" you can filter for their [issues](https://github.com/InnerSourceCommons/community-toolkit/labels/Japan%20%3Ajp%3A) and [discussions](https://github.com/InnerSourceCommons/community-toolkit/discussions?discussions_q=label%3A%22Japan+%3Ajp%3A%22)
   * their [Public Community Roadmap](https://github.com/orgs/InnerSourceCommons/projects/1) shows their plans for the coming quarters
-* [Brazil](./brazil) - You find them in `[#innersource-brazil](https://innersourcecommons.slack.com/archives/C03JP108XGE)`. Their directory in here was just created.
+* [Brazil](./brazil) - You find them in [#innersource-brazil](https://innersourcecommons.slack.com/archives/C03JP108XGE). Their directory in here was just created.
 * [Thailand](./thailand) - Their directory in here was just created.
 
 ## How to create your community directory
@@ -30,4 +30,4 @@ find <YOUR_COMMUNITY_NAME>/ | xargs -I BASEPATH touch BASEPATH/.keep
 
 This toolkit is really new!
 
-Please contact us in `[#local-community](https://innersourcecommons.slack.com/archives/C046MD5R5RT)` in [Slack](https://innersourcecommons-inviter.herokuapp.com) with any questions.
+Please contact us in [#local-community](https://innersourcecommons.slack.com/archives/C046MD5R5RT) in [Slack](https://innersourcecommons-inviter.herokuapp.com) with any questions.
