@@ -11,3 +11,5 @@ Tout est à construire dans notre communauté française, voilà tout de même l
 - Organiser des évènements et des sessions de partage en Français
 
 Rejoignez-nous dans le [Canal Slack](https://innersourcecommons.slack.com/archives/C04HJ3KPR19) !
+
+![FondEcranInnerSource Commons France](./brand/virtual-backgrounds/InnerSourceCommonsFrance.jpg "InnerSource Commons France")
