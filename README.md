@@ -1,21 +1,21 @@
 # InnerSource Community Toolkit
 
-When you are starting an InnerSource Community, you will need a toolkit to get your community off the ground quickly.
+When starting an InnerSource Community, you need various resources to get your community off the ground quickly.
 This is true no matter whether your community is a company-internal activity, a regional community, or a specific business-to-business sharing group.
 
 Luckily this toolkit by the [InnerSource Commons](https://innersourcecommons.org) is just what you need to get your InnerSource community started. :)
 
 ## Starting a local InnerSource Community
 
-You can use the next steps as a guidance to start a new local community:
+These steps provide guidance for how to start a new local community:
 
-* Announce the launch of your new community at the [#local-community Slack channel](https://innersourcecommons.slack.com/archives/C046MD5R5RT), and opening a pull request with the details of your local community  at [InnerSourceCommons/community-toolkit](https://github.com/InnerSourceCommons/community-toolkit/pulls).
+* Announce the launch of your new community at the [#local-community Slack channel](https://innersourcecommons.slack.com/archives/C046MD5R5RT). Open a pull request with the details of your local community  at [InnerSourceCommons/community-toolkit](https://github.com/InnerSourceCommons/community-toolkit/pulls).
 * The local community should have a point of contact (one or more human beings).
 * The communication channel should be clearly stated. It is recommended to use the InnerSource Commons Slack Workspace.
-* Please use either the country (e.g., #spain-general) or the ISO country codes (e.g., #es-general) as part of your channel name. This will help to have a consistent way to discover local community Slack channels. 
+* Use either the country (e.g., `#spain-general`) or the ISO country codes (e.g., `#es-general`) as part of your channel name. This will help to have a consistent way to discover local community Slack channels. 
 * If you’re planning to have local meetings, please share the URL where those are managed (e.g., as in meetup.com).
-* If you have produced translations, please share them as part of your local community work (e.g., those happening at the InnerSource Learning Path).
-Other assets such as Twitter, Mastodon account, other social networks or tools you may use, please share them clearly in the local community page README file.
+* If you have produced translations, please share them as part of your local community work (e.g., those happening at the [Learning Path](https://github.com/InnerSourceCommons/InnerSourceLearningPath)).
+* Other assets such as Twitter, Mastodon account, other social networks or tools you may use, should be shared in the README file of your local community i.e. `<YOUR_COMMUNITY_NAME>/README.md`
 
 ### Creating your Community Directory
 
