@@ -14,6 +14,18 @@ You can use the next steps as a guidance to start a new local community:
 * If you have produced translations, please share them as part of your local community work (e.g., those happening at the InnerSource Learning Path).
 Other assets such as Twitter, Mastodon account, other social networks or tools you may use, please share them clearly in the local community page README file.
 
+## How to create your community directory
+
+Building on the structure of the [international](./international) directory is a good starting point.
+You can customize the directory structure, but try to keep the base as close as possible so that other communities can easily refer to it.
+
+The following commands may be helpful:
+
+```sh
+rsync -avz --include "*/" --exclude "*" international/ <YOUR_COMMUNITY_NAME>
+find <YOUR_COMMUNITY_NAME>/ | xargs -I BASEPATH touch BASEPATH/.keep
+```
+
 ## Existing communities
 
 ### Brazil
@@ -81,19 +93,6 @@ Other assets such as Twitter, Mastodon account, other social networks or tools y
 * Communication channel: Slack [#th-general channel](https://innersourcecommons.slack.com/archives/C04KNAD6S23).
 * Repository working directory: [Thailand](./thailand).
 * Started in 2022.
-
-
-## How to create your community directory
-
-Building on the structure of the [international](./international) directory is a good starting point.
-You can customize the directory structure, but try to keep the base as close as possible so that other communities can easily refer to it.
-
-The following commands may be helpful:
-
-```sh
-rsync -avz --include "*/" --exclude "*" international/ <YOUR_COMMUNITY_NAME>
-find <YOUR_COMMUNITY_NAME>/ | xargs -I BASEPATH touch BASEPATH/.keep
-```
 
 ## Questions?
 
