@@ -29,27 +29,28 @@ rsync -avz --include "*/" --exclude "*" international/ <YOUR_COMMUNITY_NAME>
 find <YOUR_COMMUNITY_NAME>/ | xargs -I BASEPATH touch BASEPATH/.keep
 ```
 
-## Existing Communities
+## Existing Activity
+### Africa
+
+* Communication channel: Slack [#africa channel](https://innersourcecommons.slack.com/archives/C07MXDSG2P8).
+* Repository working directory: [Brazil](./africa).
 
 ### Brazil
 
 * Communication channel: Slack [#innersource-brazil channel](https://innersourcecommons.slack.com/archives/C03JP108XGE).
 * Repository working directory: [Brazil](./brazil).
-* Started in 2022.
 
 ### China
 
 * Translations:
   * [InnerSource Learning Path](https://github.com/InnerSourceCommons/InnerSourceLearningPath/tree/main/introduction/zh) translations to Chinese.
   * [InnerSource Patterns](https://patterns.innersourcecommons.org/v/zh/) translations to Chinese.
-* Started in 2022.
 
 ### France
 
 * Communication channel: Slack [#fr-general channel](https://innersourcecommons.slack.com/archives/C04HJ3KPR19).
 * Translations: [InnerSource Learning Path](https://github.com/InnerSourceCommons/InnerSourceLearningPath/tree/main/introduction/fr) translations to French.
 * Repository working directory: [France](./france).
-* Started in 2021.
 
 ### German Community
 
@@ -60,7 +61,6 @@ find <YOUR_COMMUNITY_NAME>/ | xargs -I BASEPATH touch BASEPATH/.keep
 ### Italy
 
 * Translations: [InnerSource Learning Path](https://github.com/InnerSourceCommons/InnerSourceLearningPath/tree/main/introduction/it) translations to Italian.
-* Started in 2020.
 
 ### Japan
 
@@ -83,19 +83,16 @@ find <YOUR_COMMUNITY_NAME>/ | xargs -I BASEPATH touch BASEPATH/.keep
 ### Russia
 
 * Translations: [InnerSource Learning Path](https://github.com/InnerSourceCommons/InnerSourceLearningPath/tree/main/introduction/ru) translations to Russian.
-* Started in 2021.
 
 ### Spain
 
 * [Local in-person meetings](https://www.meetup.com/es-ES/innersource-spain/).
 * Translations: [InnerSource Learning Path](https://github.com/InnerSourceCommons/InnerSourceLearningPath/tree/main/introduction/es) translations to Spanish.
-* Started in 2018.
 
 ### Thailand
 
 * Communication channel: Slack [#th-general channel](https://innersourcecommons.slack.com/archives/C04KNAD6S23).
 * Repository working directory: [Thailand](./thailand).
-* Started in 2022.
 
 ## Questions?
 
