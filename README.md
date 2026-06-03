@@ -80,6 +80,12 @@ find <YOUR_COMMUNITY_NAME>/ | xargs -I BASEPATH touch BASEPATH/.keep
   * Their [Public Community Roadmap](https://github.com/orgs/InnerSourceCommons/projects/1) shows their plans for the coming quarters.
 * Started in 2020.
 
+### Portland
+
+* Communication channel: Slack [#local-portland channel](https://innersourcecommons.slack.com/).
+* Local in-person meetings for the Portland, Oregon metro area and the wider Pacific Northwest.
+* Repository working directory: [Portland](./portland).
+
 ### Russia
 
 * Translations: [InnerSource Learning Path](https://github.com/InnerSourceCommons/InnerSourceLearningPath/tree/main/introduction/ru) translations to Russian.
