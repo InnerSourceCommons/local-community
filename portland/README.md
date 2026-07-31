@@ -10,7 +10,7 @@ You become a member of the community the moment you join us — there is nothing
 formal to sign up for. :tada:
 
 - Join the InnerSource Commons Slack via the [invite link](https://innersourcecommons.org/slack).
-- Say hello in the **#local-portland** channel and introduce yourself.
+- Say hello in the **#chapter-portland** channel and introduce yourself.
 - Watch this directory and the InnerSource Commons events calendar for upcoming
   local meetups.
 
