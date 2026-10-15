@@ -31,7 +31,7 @@ InnerSource Commons Portland expands InnerSource use locally by helping practiti
 ### What we don't do
 
 * No product pitches, sales, or recruiting at events. Vendors and recruiters may attend as practitioners.
-* Repeat what was said in the room. Meetups follow the [Chatham House Rule](https://www.chathamhouse.org/about-us/chathamhouse-rule) unless a speaker says otherwise, allowing candid discussion of their organizations.
+* Reveal speakers' or participants' identities or affiliations when sharing meetup insights. Meetups follow the [Chatham House Rule](https://www.chathamhouse.org/about-us/chathamhouse-rule): information may be shared without identifying speakers or other participants, unless a speaker explicitly permits attribution of their own remarks.
 
 ### How we run
 
