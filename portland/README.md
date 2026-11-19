@@ -69,7 +69,7 @@ Our new community meets monthly, giving Portland’s dispersed InnerSource pract
 
 ### Our approach
 
-Grow through personal invitations and make every meetup worth a busy practitioner's evening. Prioritize a returning, supportive group over large attendance.
+Grow through personal invitations and make every meetup worth a busy practitioner's attendance. Prioritize a returning, supportive group over large attendance.
 
 ### What we'll do
 
